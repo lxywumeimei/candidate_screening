@@ -1,4 +1,4 @@
-# Candidate Screening System
+# Scalable Candidate Matching System
 Recruiters often manually review hundreds of resumes for a single role. This project is trying to rank job candidates against a specific job description and return the top K candidates by exploring how candidate–job compatibility can be evaluated automatically in a transparent way.
 
 ## 1. System Input
